@@ -1,0 +1,13 @@
+{
+  "lastRun": "20241128180506-create-despesa-collection.js",
+  "migrations": [
+    {
+      "title": "20241128174000-create-receitas-collection.js",
+      "timestamp": 1732818139879
+    },
+    {
+      "title": "20241128180506-create-despesa-collection.js",
+      "timestamp": 1732818140507
+    }
+  ]
+}
